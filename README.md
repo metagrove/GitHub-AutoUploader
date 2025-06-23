@@ -5,7 +5,7 @@ A lazy-friendly, Git-free upload machine
 
 Tired of typing git push like it's your job?
 GitHub Auto Uploader is here to save your precious keystrokes.
-It’s a terminal-based tool that uploads your files and directories straight to GitHub using the GitHub API — no git install required.
+It’s a terminal-based tool that uploads your files and directories straight to GitHub using the GitHub API  no git install required.
 Seriously. Zero git. It’s like teleportation, but for your code.
 
 💼 What It Does
@@ -52,7 +52,7 @@ Just upload your files. Boom. Done.
 
 ⭐ Like It? Star It.
 🧪 Hate It? Fork It and improve it.
-📦 Want to contribute? PRs are welcome — but only if you're cool.
+📦 Want to contribute? PRs are welcome but only if you're cool.
 
 Built with Python, a dash of sarcasm, and no regrets.
 
